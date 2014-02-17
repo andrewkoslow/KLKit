@@ -1,0 +1,52 @@
+[submodule "KLKit/KLCasting"]
+	path = KLKit/KLCasting
+	url = https://github.com/andrewkoslow/KLCasting.git
+	branch = master
+[submodule "KLKit/KLCollections"]
+	path = KLKit/KLCollections
+	url = https://github.com/andrewkoslow/KLCollections.git
+	branch = master
+[submodule "KLKit/KLDataManipulation"]
+	path = KLKit/KLDataManipulation
+	url = https://github.com/andrewkoslow/KLDataManipulation.git
+	branch = master
+[submodule "KLKit/KLDescription"]
+	path = KLKit/KLDescription
+	url = https://github.com/andrewkoslow/KLDescription.git
+	branch = master
+[submodule "KLKit/KLExceptions"]
+	path = KLKit/KLExceptions
+	url = https://github.com/andrewkoslow/KLExceptions.git
+	branch = master
+[submodule "KLKit/KLFileSystem"]
+	path = KLKit/KLFileSystem
+	url = https://github.com/andrewkoslow/KLFileSystem.git
+	branch = master
+[submodule "KLKit/KLGraphics"]
+	path = KLKit/KLGraphics
+	url = https://github.com/andrewkoslow/KLGraphics.git
+	branch = master
+[submodule "KLKit/KLKVO"]
+	path = KLKit/KLKVO
+	url = https://github.com/andrewkoslow/KLKVO.git
+	branch = master
+[submodule "KLKit/KLLog"]
+	path = KLKit/KLLog
+	url = https://github.com/andrewkoslow/KLLog.git
+	branch = master
+[submodule "KLKit/KLNotifications"]
+	path = KLKit/KLNotifications
+	url = https://github.com/andrewkoslow/KLNotifications.git
+	branch = master
+[submodule "KLKit/KLRuntime"]
+	path = KLKit/KLRuntime
+	url = https://github.com/andrewkoslow/KLRuntime.git
+	branch = master
+[submodule "KLKit/KLSystemInfo"]
+	path = KLKit/KLSystemInfo
+	url = https://github.com/andrewkoslow/KLSystemInfo.git
+	branch = master
+[submodule "KLKit/KLUserData"]
+	path = KLKit/KLUserData
+	url = https://github.com/andrewkoslow/KLUserData.git
+	branch = master
